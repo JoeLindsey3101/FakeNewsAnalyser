@@ -1,9 +1,0 @@
-C:\Users\User\OneDrive\Final Year Project\FakeNewsAnalyser\FakeNewsAnalyser\obj\Debug\FakeNewsAnalyser.csprojAssemblyReference.cache
-C:\Users\User\OneDrive\Final Year Project\FakeNewsAnalyser\FakeNewsAnalyser\obj\Debug\FakeNewsAnalyser.Analyser.resources
-C:\Users\User\OneDrive\Final Year Project\FakeNewsAnalyser\FakeNewsAnalyser\obj\Debug\FakeNewsAnalyser.HelpForm.resources
-C:\Users\User\OneDrive\Final Year Project\FakeNewsAnalyser\FakeNewsAnalyser\obj\Debug\FakeNewsAnalyser.Home.resources
-C:\Users\User\OneDrive\Final Year Project\FakeNewsAnalyser\FakeNewsAnalyser\obj\Debug\FakeNewsAnalyser.Properties.Resources.resources
-C:\Users\User\OneDrive\Final Year Project\FakeNewsAnalyser\FakeNewsAnalyser\obj\Debug\FakeNewsAnalyser.csproj.GenerateResource.cache
-C:\Users\User\OneDrive\Final Year Project\FakeNewsAnalyser\FakeNewsAnalyser\obj\Debug\FakeNewsAnalyser.csproj.CoreCompileInputs.cache
-C:\Users\User\OneDrive\Final Year Project\FakeNewsAnalyser\FakeNewsAnalyser\obj\Debug\FakeNewsAnalyser.exe
-C:\Users\User\OneDrive\Final Year Project\FakeNewsAnalyser\FakeNewsAnalyser\obj\Debug\FakeNewsAnalyser.pdb
